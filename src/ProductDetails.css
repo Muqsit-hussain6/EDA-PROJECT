@@ -1,0 +1,17 @@
+.card {
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+  }
+  
+  .card-img-top {
+    max-height: 500px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
